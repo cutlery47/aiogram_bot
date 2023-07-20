@@ -1,4 +1,4 @@
-TOKEN = '6359086099:AAGf2w9l-NWtRxQ3Jzse_1RMcJsX9xSzEOY'
+TOKEN = 'XXXXXXX'
 
 IMAGES = ["utilities/img.PNG", "utilities/img1.jpg", "utilities/img2.jpg", "utilities/img3.png", "utilities/img4.jpg", "utilities/img7.png"]
 
